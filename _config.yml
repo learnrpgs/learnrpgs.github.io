@@ -26,7 +26,7 @@ plugins:
 #    anonymize_ip: true
 category_archive:
   type: liquid
-  path: "/categories/"
+  path: "/genres/"
 tag_archive:
   type: liquid
   path: "/tags/"
