@@ -1,0 +1,39 @@
+title: Learn RPGs
+email: admin@learnrpgs.com
+description: >-
+  Want to get a quick overview of how an RPG works and what you need to start playing?
+  Look no further than LearnRPGS.com
+baseurl: ""
+url: "https://learnrpgs.com"
+github_username: "learnrpgs"
+repository: "learnrpgs/learnrpgs.github.io"
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+locale: en-GB
+permalink: /:title
+exclude: [vendor,_posts/0000-00-00-template.md]
+excerpt_separator: <!--more-->
+search: true
+timezone: Europe/London
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "UA-"
+#    anonymize_ip: true
+category_archive:
+  type: liquid
+  path: "/categories/"
+tag_archive:
+  type: liquid
+  path: "/tags/"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true
