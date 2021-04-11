@@ -9,7 +9,7 @@ Inspired by [Learn X in Y Minutes](https://learnxinyminutes.com/).
 
 # Can't see your favourite RPG?
 
-Make a fork, use the template post in `_posts` and make a PR to add it to the site.
+Make a fork, use the template post in `_posts` and make a PR to add it to the site. For more details see [notes on contributing](CONTRIBUTING.md).
 
 # Roadmap
 
