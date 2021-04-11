@@ -10,5 +10,5 @@ Make a fork, use the template post in `_posts` and make a PR to add it to the si
 
 # Roadmap
 
-1. Add more RPGs focusing on the more popular systems first but ensuring to exapnd out to cover indie RPGs too.
-2. Add some simple explainer pages for conceptcs like NPCs etc.
+1. Add more RPGs focusing on the more popular systems first but ensuring to expand out to cover indie RPGs too.
+2. Add some simple explainer pages for concepts like NPCs etc.
