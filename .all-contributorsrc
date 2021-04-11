@@ -1,0 +1,35 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tawilkinson",
+      "name": "Tom Wilkinson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3664960?v=4",
+      "profile": "https://tawilkinson.com",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Poppamunz",
+      "name": "Poppamunz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4349586?v=4",
+      "profile": "https://github.com/Poppamunz",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "learnrpgs.github.io",
+  "projectOwner": "learnrpgs",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
