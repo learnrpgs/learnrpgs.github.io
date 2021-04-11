@@ -19,11 +19,11 @@ timezone: Europe/London
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-# analytics:
-#   provider: "google-gtag"
-#   google:
-#     tracking_id: "UA-"
-#    anonymize_ip: true
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-7Q74BREYNN"
+    anonymize_ip: true
 category_archive:
   type: liquid
   path: "/genres/"
